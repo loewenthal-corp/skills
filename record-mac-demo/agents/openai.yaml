@@ -1,0 +1,4 @@
+interface:
+  display_name: "Record Mac Demo"
+  short_description: "Record and trim live Mac demos"
+  default_prompt: "Use $record-mac-demo to record a live Mac demo with terminal and browser steps, then deliver a cleaned-up review cut."
